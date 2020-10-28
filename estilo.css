@@ -1,0 +1,27 @@
+@charset  "utf-8"; /* exemplo de comentário */
+
+body, header, article, footer {
+
+    display:block;
+}
+
+
+
+h1{
+
+
+
+font-family: cursive; /* tipo de fonte */
+
+text-align: center; /* alinhamento */
+background-color: #264653; /* a cor de fundo do site*/
+
+}
+  
+body {
+
+margin:0; 
+font-size: 1em;
+background-color:#2a9d8f;
+}
+
